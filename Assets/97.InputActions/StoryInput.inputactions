@@ -1,0 +1,34 @@
+{
+    "name": "StoryInput",
+    "maps": [
+        {
+            "name": "OpenPanel",
+            "id": "c15b9ce3-ba59-4b07-b642-67db9e454a9a",
+            "actions": [
+                {
+                    "name": "OptionBtn",
+                    "type": "Button",
+                    "id": "80252805-a095-48f8-81d9-0183c515bc43",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b59ebc43-7ae5-4fb2-a14f-8d70cd34266b",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "OptionBtn",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

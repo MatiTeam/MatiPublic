@@ -1,0 +1,53 @@
+{
+  "datas": [
+    {
+      "CharacterID": "C001",
+      "Name": "주인공",
+      "Sprite": "Player_Normal"
+    },
+    {
+      "CharacterID": "C002",
+      "Name": "최아연",
+      "Sprite": "Zinc_Normal"
+    },
+    {
+      "CharacterID": "C003",
+      "Name": "어린 아연",
+      "Sprite": "Young_Zinc_Normal"
+    },
+    {
+      "CharacterID": "C004",
+      "Name": "마티",
+      "Sprite": "Mati_Normal"
+    },
+    {
+      "CharacterID": "C005",
+      "Name": "윤수빈",
+      "Sprite": "YSB_Normal"
+    },
+    {
+      "CharacterID": "C006",
+      "Name": "전아람",
+      "Sprite": "JAR_Normal"
+    },
+    {
+      "CharacterID": "C007",
+      "Name": "최승빈",
+      "Sprite": "CSB_Normal"
+    },
+    {
+      "CharacterID": "C008",
+      "Name": "관객들"
+    },
+    {
+      "CharacterID": "C009",
+      "Name": "윤수빈",
+      "Sprite": "YSB_Cyborg"
+    },
+    {
+      "CharacterID": "C010",
+      "Name": "주인공",
+      "Sprite": "Player_WhiteVer"
+    }
+  ]
+}

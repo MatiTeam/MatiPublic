@@ -1,0 +1,103 @@
+{
+  "flow": [
+    {
+      "FlowIndex": 0,
+      "FlowID": "ST0101",
+      "StageType": "Story",
+      "BGM": "CareFree"
+    },
+    {
+      "FlowIndex": 1,
+      "FlowID": "ST0102",
+      "StageType": "Story"
+    },
+    {
+      "FlowIndex": 2,
+      "FlowID": "ST0103",
+      "StageType": "Story",
+      "BGM": "CircusShow"
+    },
+    {
+      "FlowIndex": 3,
+      "FlowID": "ST0104",
+      "StageType": "Story",
+      "BGM": "YSB_Entrance"
+    },
+    {
+      "FlowIndex": 4,
+      "FlowID": "ST0105",
+      "StageType": "Story",
+      "BGM": "MeetMati"
+    },
+    {
+      "FlowIndex": 5,
+      "FlowID": "ST0106",
+      "StageType": "Story"
+    },
+    {
+      "FlowIndex": 6,
+      "FlowID": "ST0107",
+      "StageType": "Story"
+    },
+    {
+      "FlowIndex": 7,
+      "FlowID": "BA0101",
+      "StageType": "Battle",
+      "MapID": "Map_Tutorial1"
+    },
+    {
+      "FlowIndex": 8,
+      "FlowID": "ST0108",
+      "StageType": "Story",
+      "BGM": "MeetMati"
+    },
+    {
+      "FlowIndex": 9,
+      "FlowID": "BA0102",
+      "StageType": "Battle",
+      "MapID": "Map_Battle01"
+    },
+    {
+      "FlowIndex": 10,
+      "FlowID": "BA0103",
+      "StageType": "Battle",
+      "MapID": "Map_Battle01_Long"
+    },
+    {
+      "FlowIndex": 11,
+      "FlowID": "BA0104",
+      "StageType": "Battle",
+      "MapID": "Map_Battle02"
+    },
+    {
+      "FlowIndex": 12,
+      "FlowID": "ST0109",
+      "StageType": "Story",
+      "BGM": "MeetBoss"
+    },
+    {
+      "FlowIndex": 13,
+      "FlowID": "BS0101",
+      "StageType": "Boss",
+      "MapID": "Map_Dummy1"
+    },
+    {
+      "FlowIndex": 14,
+      "FlowID": "ST0110",
+      "StageType": "Story",
+      "BGM": "AfterBossStage"
+    },
+    {
+      "FlowIndex": 15,
+      "FlowID": "BA0105",
+      "StageType": "Battle",
+      "MapID": "Map_Boss"
+    },
+    {
+      "FlowIndex": 16,
+      "FlowID": "BA0106",
+      "StageType": "Battle",
+      "MapID": "Map_End"
+    }
+  ]
+}

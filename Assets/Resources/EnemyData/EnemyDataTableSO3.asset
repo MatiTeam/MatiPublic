@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fc631ba698f9048a9ae5e3f1e3e5ac, type: 3}
+  m_Name: EnemyDataTableSO3
+  m_EditorClassIdentifier: 
+  datas:
+  - MonsterID: D1001
+    Name: "\uB354\uBBF8"
+    Rarity: NormalMob
+    BehaviorPattern: Dummy
+    AttackType: Melee
+    Skill1ID: '""'
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 300
+    MoveSpeed: 4
+    EmergenceTime: 0
+    ContactDamage: 1
+    Cooltime: 3
+    AnimationHitEffect: '""'
+    MoveType: Fly
+  - MonsterID: M1001
+    Name: "\uB85C\uBD07 \uC0AC\uC790"
+    Rarity: NormalMob
+    BehaviorPattern: Close
+    AttackType: Melee
+    Skill1ID: S1001
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 100
+    MoveSpeed: 4
+    EmergenceTime: 0
+    ContactDamage: 1
+    Cooltime: 3
+    AnimationHitEffect: '""'
+    MoveType: Ground
+  - MonsterID: M1002
+    Name: "\uB85C\uBD07 \uC575\uBB34\uC0C8"
+    Rarity: NormalMob
+    BehaviorPattern: Chasing
+    AttackType: Melee
+    Skill1ID: S1002
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 100
+    MoveSpeed: 6
+    EmergenceTime: 0
+    ContactDamage: 1
+    Cooltime: 5
+    AnimationHitEffect: '""'
+    MoveType: Fly
+  - MonsterID: M1003
+    Name: "\uB85C\uBD07 \uAE4C\uB9C8\uADC0"
+    Rarity: NormalMob
+    BehaviorPattern: Patrol
+    AttackType: Range
+    Skill1ID: S1003
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 100
+    MoveSpeed: 2
+    EmergenceTime: 0
+    ContactDamage: 1
+    Cooltime: 5
+    AnimationHitEffect: '""'
+    MoveType: Fly
+  - MonsterID: M2001
+    Name: "\uAC15\uD654 \uB85C\uBD07 \uC0AC\uC790"
+    Rarity: Elite
+    BehaviorPattern: Close
+    AttackType: Melee
+    Skill1ID: S1001
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 200
+    MoveSpeed: 4
+    EmergenceTime: 0
+    ContactDamage: 2
+    Cooltime: 3
+    AnimationHitEffect: '""'
+    MoveType: '""'
+  - MonsterID: M2002
+    Name: "\uAC15\uD654 \uB85C\uBD07 \uC575\uBB34\uC0C8"
+    Rarity: Elite
+    BehaviorPattern: Chasing
+    AttackType: Melee
+    Skill1ID: S1002
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 200
+    MoveSpeed: 6
+    EmergenceTime: 0
+    ContactDamage: 2
+    Cooltime: 5
+    AnimationHitEffect: '""'
+    MoveType: '""'
+  - MonsterID: M2003
+    Name: "\uAC15\uD654 \uB85C\uBD07 \uAE4C\uB9C8\uADC0"
+    Rarity: Elite
+    BehaviorPattern: Patrol
+    AttackType: Range
+    Skill1ID: S1003
+    Skill2ID: '""'
+    Skill3ID: '""'
+    MaxHp: 200
+    MoveSpeed: 2
+    EmergenceTime: 0
+    ContactDamage: 2
+    Cooltime: 5
+    AnimationHitEffect: '""'
+    MoveType: '""'

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Maps
+  m_EditorClassIdentifier: 
+  m_GroupName: Maps
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b534250ff7c9daf469983dd125d3210b
+  m_SerializeEntries:
+  - m_GUID: 920734ddb95852a4086c9a07bdbc10af
+    m_Address: Map_End
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c37c4632516272c43acfeaf488322722
+    m_Address: Map_Boss
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c7b42360a0a022478075977967bbf66
+    m_Address: Map_Battle02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23417987a1f6ac4419cbbe1ad7a65ae1
+    m_Address: Map_Battle01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 125185da82835a04483b6e0a88551be2
+    m_Address: Map_Battle01_Long
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6575d5544098b6343a3de98d5d074c2f
+    m_Address: Map_Tutorial1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6b17cf7442938514c8cc69e3a0868bee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 49ac55f2658b549498b2f6d0f2d87c92, type: 2}
+    - {fileID: 11400000, guid: 127267350ce92b94993abfe942352b70, type: 2}
